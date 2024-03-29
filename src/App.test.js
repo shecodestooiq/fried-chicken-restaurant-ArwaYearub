@@ -1,7 +1,7 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import RestaurantCard from './components/RestaurantCard';
 import RestaurantDetails from './components/RestaurantDetails';
-import RestaurantsList from './components/RestaurantsList';
+import RestaurantsList from './components/RestaurantList';
 import RestaurantForm from './components/RestaurantForm/RestaurantForm';
 import React from 'react';
 import '@testing-library/jest-dom';
